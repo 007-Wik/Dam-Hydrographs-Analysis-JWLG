@@ -10,7 +10,7 @@
       <stop offset="20%" style="stop-color:#00e5ff;stop-opacity:1"/>
       <stop offset="80%" style="stop-color:#00e5ff;stop-opacity:1"/>
       <stop offset="100%" style="stop-color:#1565C0;stop-opacity:0"/>
-    </linearGradient>
+    </linearGradient> 
     <filter id="glow2">
       <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
